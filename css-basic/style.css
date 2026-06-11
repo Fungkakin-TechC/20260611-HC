@@ -1,0 +1,17 @@
+@charset "UTF-8";
+h1{
+    color:rgb(39, 97, 224);
+font-size:80px;
+}
+h2{
+    color:rgb(39, 224, 76);
+font-size:30px;
+}
+h3{
+    color:rgba(182, 57, 138, 0.3);
+font-size:40px;
+}
+h4{
+    color:rgb(38, 110, 84);
+font-size:30px;
+}
